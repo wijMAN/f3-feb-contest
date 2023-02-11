@@ -12,7 +12,7 @@ fetch("https://dummyjson.com/products")
       <br>
       Brand: ${element.brand}
       <br>
-      Price: ${element.price}
+      Price: $${element.price}
       <br>
       Rating: ${element.rating}
       <br>
