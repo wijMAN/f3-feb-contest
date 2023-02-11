@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 10px;
+}
+.box2 {
+  width: 15vw;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
